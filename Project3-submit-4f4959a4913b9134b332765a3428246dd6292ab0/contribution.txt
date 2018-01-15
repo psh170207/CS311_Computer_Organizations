@@ -1,0 +1,6 @@
+20150326 ParkSiHwan 50%
+20150824 HwangJaeYoung 50%
+
+!!README : We modify 'initialize' function in 'cs311.c' (line 125 ~ 147)
+This modification is needed for initialize additional variables in 'CPU_State'
+Because we add some additional variables at 'CPU_State' in 'util.h'
